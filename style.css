@@ -1,0 +1,11 @@
+*{
+    max-width: 0 auto;
+}
+body{
+    background-color: lightgray;
+}
+h1{
+    margin: auto;
+    color: green;
+    background-color: yellow;
+}
